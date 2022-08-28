@@ -1,4 +1,4 @@
 # programador_de_sistemas
  Cursos de Programador de Sistemas do SENAC
 
- Foi urilizado o programa NetBeans para programar.
+ Foram urilizados os programas NetBeans para programar em Java e MySql para desenvolver Banco de Dados.
